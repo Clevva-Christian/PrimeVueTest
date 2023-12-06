@@ -1,9 +1,9 @@
 <script setup>
-  import Home_component from '@/components/Home_component.vue';
+  import Card_component from '@/components/Card_component.vue';
 </script>
 
 <template>
   <main>
-    <Home_component />
+    <Card_component />
   </main>
 </template>
