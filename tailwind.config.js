@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [],
+  content: [''],
   purge: ['./assets/main.css', './src/**/*.{vue,js,ts,jsx,tsx}'],
   darkMode: false,
   theme: {
