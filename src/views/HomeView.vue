@@ -1,9 +1,9 @@
 <script setup>
-import Home_component from '@/components/Home_component.vue'
+import va_component from '@/components/VA_componet.vue'
 </script>
 
 <template>
   <main>
-    <Home_component />
+    <va_component />
   </main>
 </template>
